@@ -120,7 +120,7 @@ public class ls {
 
 			}
 		}
-
+		System.out.println();
 	}
 
 	private boolean parseOptions(Options options, String[] args) {
